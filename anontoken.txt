@@ -1,0 +1,3 @@
+# Danh sách tài khoản — mỗi dòng một tài khoản, cú pháp: ten_dang_nhap:mat_khau
+# Dòng bắt đầu bằng # là ghi chú. Thêm user mới không cần khởi động lại server.
+admin:password
